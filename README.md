@@ -1,6 +1,6 @@
 # Personal Website
 
-This is the source code for my personal website. You can view the live site at [https://Shubham1727.github.io.](My Website Link).
+This is the source code for my personal website. You can view the live site at ["https://Shubham1727.github.io"](My Website Link).
 
 ## Technologies Used
 
