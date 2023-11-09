@@ -5,6 +5,16 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Graph Analytics for Big Data",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/MDGK3S4BA899",
+  },
+  {
+    title: "Big Data Integration and Processing",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/QMQ5QMCGBV2F",
+  },
+  {
     title: "Big Data Modeling and Management Systems",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/account/accomplishments/certificate/UA8WP4HFMQHW",

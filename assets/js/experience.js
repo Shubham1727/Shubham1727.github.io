@@ -5,23 +5,30 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Software Development Intern",
+    cardImage: "assets/images/experience-page/amazon.png",
+    place: "Amazon",
+    time: "(Jan, 2024 - present)",
+    desp: "",
+  },
+  {
     title: "Web Development Intern",
     cardImage: "assets/images/experience-page/codeclause.jpg",
     place: "Code Clause",
-    time: "(May, 2023 - present)",
+    time: "(May, 2023 - June, 2023)",
     desp: "<li>As a web developer intern at CodeClause, I was responsible for building responsive and user-friendly websites using HTML, CSS, and JavaScript. I collaborated with the team to develop and maintain the company's web projects.</li> <li>During my internship at CodeClause, I gained valuable experience in web development by working on various projects using modern web technologies. I contributed to the development of the company's websites and learned how to write clean and maintainable code.</li>",
   },
   {
     title: "Digital Marketing Intern",
     cardImage: "assets/images/experience-page/nummero.jpg",
     place: "Nummero",
-    time: "(April, 2023 - May 2023)",
+    time: "(March, 2023 - May, 2023)",
     desp: "<li>Conducted market research and competitor analysis to identify opportunities for increasing website traffic and improving search engine optimization (SEO).</li> <li>Created and managed social media campaigns across various platforms to increase brand awareness and engage with target audiences.</li> <li>Collaborated with cross-functional teams, including designers and developers, to develop and implement marketing strategies and initiatives.</li>",
   },
   {
     title: "Web Development Intern",
     cardImage: "assets/images/experience-page/trust.jpg",
-    place: "Subhas Sewa Trust",
+    place: "Subhansh Sewa Trust",
     time: "(April, 2023 - May 2023)",
     desp: "<li>Designed and developed various web pages for Subhansh Sewa, a non-profit organization that aims to provide education and healthcare to underprivileged children in rural areas.</li> <li>Successfully raised funds for the organization by organizing and promoting multiple charity events, including donation drives, awareness campaigns, and social media campaigns.</li> <li>Collaborated with a team of volunteers to create and maintain a user-friendly website for the organization, which improved the online presence and accessibility of the organization's services.</li>",
   },
